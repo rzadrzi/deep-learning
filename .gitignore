@@ -8,6 +8,7 @@ datasets/
 data/
 models/
 
+.venv/
 
 *.csv
 *.pth
